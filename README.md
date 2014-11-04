@@ -1,0 +1,4 @@
+Linux
+=====
+
+adım adım Linux.
